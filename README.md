@@ -1,5 +1,3 @@
-# 🎮 CatchAlphabets
-
 CatchAlphabets is a simple and engaging terminal-based game written in **x86 Assembly Language**, where the player must catch falling alphabets before they hit the ground. It's a fun way to explore low-level programming while applying concepts like I/O interrupts, loops, and memory management.
 
 ---
